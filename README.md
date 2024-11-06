@@ -5,16 +5,23 @@ This project is a promotional website developed for Emaartech, a luxury real est
 # Technologies Used
 
 **HTML5:** The basic structure of the page is created using HTML5.
+
 **CSS3:** CSS3 is used for page design and styling.
+
 **CSS Animations:** Animations are applied to certain elements on the page, especially for user interactions (hover effects, button animations, transitions) to enhance visual richness and dynamism.
+
 **Bootstrap 5:** The Bootstrap framework is used for a modern and responsive design.
+
 **JavaScript (Bootstrap Bundle):** Bootstrap JS components are used for interactive elements and dynamic content.
 
 # Features
 
 **Responsive Design:** Compatible with mobile, tablet, and desktop devices.
+
 **Animations:** Dynamic effects that enhance interaction between page elements through CSS animations.
+
 **Social Media Integration:** Icons linking to social media accounts such as Facebook, Twitter, LinkedIn, Instagram, and YouTube.
+
 **Subscription System:** A form that allows users to subscribe to the newsletter by entering their email address.
 
 # Live Demo / Preview 
