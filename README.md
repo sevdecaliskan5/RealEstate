@@ -24,9 +24,4 @@ This project is a promotional website developed for Emaartech, a luxury real est
 
 **Subscription System:** A form that allows users to subscribe to the newsletter by entering their email address.
 
-# Live Demo / Preview 
-
-To get a better understanding of how the website works, check out the screen recording below. It showcases the responsive design, smooth animations, and interactive features of the page in action.
-Watch the demo to see the project's features in real-time!
-
 ![Emaartech-GoogleChrome2024-10-3014-29-02-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/1cf19050-f8e0-4687-bf12-e2b59acbdf7c)
